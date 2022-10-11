@@ -3,4 +3,4 @@ project(delivery_project C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(delivery_project main.c)
+add_executable(delivery_project main.c lire_fichier.c lire_fichier.h)
