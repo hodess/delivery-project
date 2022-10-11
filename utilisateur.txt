@@ -1,0 +1,10 @@
+pseudo
+mot_de_passe
+
+mot_clef
+premier_mdp_enregistrer
+clefs
+
+deuxieme_mot_clef
+deuxieme_mdp_enregistrer
+deuxieme_clefs
